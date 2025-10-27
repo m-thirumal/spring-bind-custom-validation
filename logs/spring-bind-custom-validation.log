@@ -1,0 +1,863 @@
+2025-10-27T12:37:26.955+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T12:37:26.956+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T12:37:26.956+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T12:37:27.091+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T12:37:27.092+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T12:37:27.092+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T12:37:27.110+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 150 ms
+2025-10-27T12:37:27.179+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T12:37:27.183+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.269 seconds (process running for 161.716)
+2025-10-27T12:37:27.184+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T13:50:09.609+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T13:50:09.624+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-17] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T13:50:09.642+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T13:50:09.825+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:50:09.825+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:50:09.825+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:50:09.980+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T13:50:09.982+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T13:50:09.982+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T13:50:10.005+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 177 ms
+2025-10-27T13:50:10.125+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T13:50:10.127+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.335 seconds (process running for 4524.661)
+2025-10-27T13:50:10.128+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T13:50:24.565+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T13:50:24.567+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-21] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T13:50:24.578+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T13:50:24.695+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:50:24.696+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:50:24.696+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:50:24.879+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T13:50:24.880+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T13:50:24.880+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T13:50:24.897+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 197 ms
+2025-10-27T13:50:24.971+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T13:50:24.973+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.321 seconds (process running for 4539.507)
+2025-10-27T13:50:24.974+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T13:56:25.826+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T13:56:25.832+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-25] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T13:56:25.861+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T13:56:26.026+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:56:26.027+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:56:26.028+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:56:26.562+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T13:56:26.566+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T13:56:26.567+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T13:56:26.610+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 577 ms
+2025-10-27T13:56:26.866+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T13:56:26.870+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.927 seconds (process running for 4901.403)
+2025-10-27T13:56:26.871+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T13:56:51.388+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T13:56:51.391+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-29] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T13:56:51.407+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T13:56:51.521+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:56:51.522+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:56:51.522+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:56:51.972+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T13:56:51.973+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T13:56:51.973+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T13:56:52.001+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 473 ms
+2025-10-27T13:56:52.079+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T13:56:52.081+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.609 seconds (process running for 4926.615)
+2025-10-27T13:56:52.082+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T13:57:29.652+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T13:57:29.657+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-33] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T13:57:29.682+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T13:57:29.852+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:57:29.852+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:57:29.852+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:57:30.173+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T13:57:30.173+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T13:57:30.173+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T13:57:30.205+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 347 ms
+2025-10-27T13:57:30.333+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T13:57:30.333+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.553 seconds (process running for 4964.875)
+2025-10-27T13:57:30.343+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T13:59:19.152+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2025-10-27T13:59:19.153+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-37] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T13:59:19.167+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T13:59:19.276+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:59:19.277+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:59:19.277+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:59:19.388+05:30  WARN 18092 --- [spring-bind-custom-validation] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer
+2025-10-27T13:59:19.391+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-10-27T13:59:19.418+05:30 ERROR 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:60) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:100) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:196) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:124) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:454) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:306) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:784) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:602) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:765) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:454) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1374) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at com.thirumal.SpringBindCustomValidationApplication.main(SpringBindCustomValidationApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.0-RC1.jar:4.0.0-RC1]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.thirumal.ValidationMessageConfig] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@6df01171]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:417) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$0(AbstractAutowireCapableBeanFactory.java:751) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1724) ~[na:na]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:750) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:684) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:656) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1699) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:632) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:604) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:589) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.collectBeanDefinitionsForType(OnBeanCondition.java:331) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanDefinitionsForType(OnBeanCondition.java:323) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchingBeans(OnBeanCondition.java:221) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.evaluateConditionalOnMissingBean(OnBeanCondition.java:204) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:149) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	... 20 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: LocaleResolver
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3010) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2329) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	... 37 common frames omitted
+Caused by: java.lang.ClassNotFoundException: LocaleResolver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:547) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:123) ~[spring-boot-devtools-4.0.0-RC1.jar:4.0.0-RC1]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[na:na]
+	... 41 common frames omitted
+
+2025-10-27T13:59:24.868+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:59:24.868+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:59:24.869+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:59:24.942+05:30  WARN 18092 --- [spring-bind-custom-validation] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer
+2025-10-27T13:59:24.942+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-10-27T13:59:24.944+05:30 ERROR 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:60) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:100) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:196) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:124) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:454) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:306) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:784) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:602) ~[spring-context-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:765) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:454) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1374) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) ~[spring-boot-4.0.0-RC1.jar:4.0.0-RC1]
+	at com.thirumal.SpringBindCustomValidationApplication.main(SpringBindCustomValidationApplication.java:10) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.0-RC1.jar:4.0.0-RC1]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.thirumal.ValidationMessageConfig] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@532a155b]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:417) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$0(AbstractAutowireCapableBeanFactory.java:751) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1724) ~[na:na]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:750) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:684) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:656) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1699) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:632) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:604) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:589) ~[spring-beans-7.0.0-RC2.jar:7.0.0-RC2]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.collectBeanDefinitionsForType(OnBeanCondition.java:331) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanDefinitionsForType(OnBeanCondition.java:323) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchingBeans(OnBeanCondition.java:221) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.evaluateConditionalOnMissingBean(OnBeanCondition.java:204) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:149) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47) ~[spring-boot-autoconfigure-4.0.0-RC1.jar:4.0.0-RC1]
+	... 20 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: LocaleResolver
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3010) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2329) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-7.0.0-RC2.jar:7.0.0-RC2]
+	... 37 common frames omitted
+Caused by: java.lang.ClassNotFoundException: LocaleResolver
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:547) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:123) ~[spring-boot-devtools-4.0.0-RC1.jar:4.0.0-RC1]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[na:na]
+	... 41 common frames omitted
+
+2025-10-27T13:59:45.603+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T13:59:45.603+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T13:59:45.603+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T13:59:45.774+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T13:59:45.774+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T13:59:45.774+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T13:59:45.801+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 196 ms
+2025-10-27T13:59:45.880+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T13:59:45.882+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.301 seconds (process running for 5100.416)
+2025-10-27T13:59:45.887+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   WebMvcAutoConfiguration.EnableWebMvcConfiguration#localeResolver:
+      Did not match:
+         - @ConditionalOnMissingBean (names: localeResolver; SearchStrategy: all) found beans named localeResolver (OnBeanCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2025-10-27T14:00:34.454+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:00:34.456+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-41] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:00:34.471+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:00:34.586+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:00:34.587+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:00:34.587+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:00:34.756+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:00:34.757+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:00:34.757+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:00:34.771+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 181 ms
+2025-10-27T14:00:34.830+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:00:34.832+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.289 seconds (process running for 5149.366)
+2025-10-27T14:00:34.833+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:00:49.285+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 5 class path changes (1 addition, 1 deletion, 3 modifications)
+2025-10-27T14:00:49.287+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-51] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:00:49.306+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:00:49.422+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:00:49.422+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:00:49.422+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:00:49.609+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:00:49.610+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:00:49.610+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:00:49.624+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 199 ms
+2025-10-27T14:00:49.701+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:00:49.702+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.316 seconds (process running for 5164.236)
+2025-10-27T14:00:49.703+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:02:01.034+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:02:01.036+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-55] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:02:01.046+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:02:01.153+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:02:01.154+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:02:01.154+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:02:01.319+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:02:01.320+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:02:01.320+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:02:01.334+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 176 ms
+2025-10-27T14:02:01.408+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:02:01.410+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.293 seconds (process running for 5235.944)
+2025-10-27T14:02:01.410+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:02:33.152+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:02:33.155+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-59] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:02:33.220+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:02:33.336+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:02:33.336+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:02:33.336+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:02:33.468+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:02:33.469+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:02:33.469+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:02:33.483+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 146 ms
+2025-10-27T14:02:33.547+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:02:33.549+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.253 seconds (process running for 5268.082)
+2025-10-27T14:02:33.549+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:03:09.201+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T14:03:09.202+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-63] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:03:09.207+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:03:09.289+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:03:09.289+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:03:09.289+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:03:09.417+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:03:09.417+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:03:09.417+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:03:09.432+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 142 ms
+2025-10-27T14:03:09.506+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:03:09.509+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.252 seconds (process running for 5304.043)
+2025-10-27T14:03:09.511+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:04:28.212+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:04:28.214+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-67] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:04:28.225+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:04:28.298+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:04:28.299+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:04:28.299+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:04:28.413+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:04:28.414+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:04:28.414+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:04:28.429+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 129 ms
+2025-10-27T14:04:28.488+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:04:28.489+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.215 seconds (process running for 5383.024)
+2025-10-27T14:04:28.490+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:04:32.896+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:04:32.899+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-71] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:04:32.918+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:04:33.024+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:04:33.024+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:04:33.025+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:04:33.177+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:04:33.177+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:04:33.177+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:04:33.192+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 165 ms
+2025-10-27T14:04:33.262+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:04:33.264+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.278 seconds (process running for 5387.797)
+2025-10-27T14:04:33.264+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:04:40.680+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:04:40.681+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-75] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:04:40.689+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:04:40.762+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:04:40.762+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:04:40.762+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:04:40.889+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:04:40.891+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:04:40.891+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:04:40.906+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 143 ms
+2025-10-27T14:04:40.988+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:04:40.990+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.252 seconds (process running for 5395.524)
+2025-10-27T14:04:40.992+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:05:18.574+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T14:05:18.576+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-79] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:05:18.589+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:05:18.668+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:05:18.668+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:05:18.668+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:05:18.810+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:05:18.811+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:05:18.811+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:05:18.842+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 173 ms
+2025-10-27T14:05:18.946+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:05:18.949+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.307 seconds (process running for 5433.483)
+2025-10-27T14:05:18.950+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:06:42.758+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:06:42.760+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-83] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:06:42.768+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:06:42.841+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:06:42.841+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:06:42.841+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:06:42.971+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:06:42.971+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:06:42.971+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:06:42.982+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 140 ms
+2025-10-27T14:06:43.053+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:06:43.054+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.236 seconds (process running for 5517.588)
+2025-10-27T14:06:43.055+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:07:47.359+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 412 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:07:47.362+05:30 DEBUG 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:07:47.364+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:07:47.426+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-10-27T14:07:47.426+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-10-27T14:07:48.344+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:07:48.360+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:07:48.360+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:07:48.405+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 978 ms
+2025-10-27T14:07:48.836+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:07:48.842+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 1.891 seconds (process running for 2.803)
+2025-10-27T14:14:05.654+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-27T14:14:05.654+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-27T14:14:05.656+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-10-27T14:14:06.479+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-4] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 394 ms
+2025-10-27T14:14:17.033+05:30  WARN 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User): [Field error in object 'user' on field 'name': rejected value []; codes [NotBlank.user.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [Name must not be blank.]] ]
+2025-10-27T14:15:17.991+05:30  INFO 412 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:15:18.004+05:30  INFO 412 --- [spring-bind-custom-validation] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:15:18.020+05:30  INFO 412 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:15:18.219+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 412 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:15:18.219+05:30 DEBUG 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:15:18.219+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:15:18.678+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:15:18.682+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:15:18.682+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:15:18.716+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 488 ms
+2025-10-27T14:15:19.055+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:15:19.061+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.93 seconds (process running for 453.022)
+2025-10-27T14:15:19.063+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:16:16.265+05:30  INFO 412 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T14:16:16.265+05:30  INFO 412 --- [spring-bind-custom-validation] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:16:16.281+05:30  INFO 412 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:16:16.424+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 412 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:16:16.424+05:30 DEBUG 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:16:16.424+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:16:16.822+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:16:16.822+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:16:16.822+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:16:16.867+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 443 ms
+2025-10-27T14:16:17.042+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:16:17.042+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.666 seconds (process running for 511.017)
+2025-10-27T14:16:17.058+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:16:39.696+05:30  INFO 412 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:16:39.696+05:30  INFO 412 --- [spring-bind-custom-validation] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:16:39.711+05:30  INFO 412 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:16:39.838+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 412 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:16:39.838+05:30 DEBUG 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:16:39.838+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:16:40.172+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:16:40.172+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:16:40.172+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:16:40.200+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 362 ms
+2025-10-27T14:16:40.376+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:16:40.378+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.585 seconds (process running for 534.34)
+2025-10-27T14:16:40.383+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:16:59.217+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-27T14:16:59.217+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-27T14:16:59.217+05:30  INFO 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-10-27T14:16:59.243+05:30  WARN 412 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User): [Field error in object 'user' on field 'name': rejected value []; codes [NotBlank.user.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [Name must not be blank.]] ]
+2025-10-27T14:19:40.751+05:30  INFO 412 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T14:19:40.756+05:30  INFO 412 --- [spring-bind-custom-validation] [Thread-13] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:19:40.776+05:30  INFO 412 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:19:40.931+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 412 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:19:40.933+05:30 DEBUG 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:19:40.933+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:19:41.345+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:19:41.350+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:19:41.351+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:19:41.395+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 460 ms
+2025-10-27T14:19:41.593+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:19:41.597+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.721 seconds (process running for 715.558)
+2025-10-27T14:19:41.600+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:20:14.263+05:30  INFO 412 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:20:14.267+05:30  INFO 412 --- [spring-bind-custom-validation] [Thread-17] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:20:14.283+05:30  INFO 412 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:20:14.415+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 412 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:20:14.416+05:30 DEBUG 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:20:14.416+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:20:14.624+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:20:14.624+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:20:14.624+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:20:14.644+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 224 ms
+2025-10-27T14:20:14.744+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:20:14.746+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.382 seconds (process running for 748.707)
+2025-10-27T14:20:14.750+05:30  INFO 412 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   MultipleOpenApiSupportConfiguration matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnProperty (springdoc.api-docs.enabled) matched (OnPropertyCondition)
+      - AnyNestedCondition 1 matched 1 did not; NestedCondition on MultipleOpenApiSupportCondition.OnActuatorDifferentPort @ConditionalOnProperty (springdoc.show-actuator) did not find property 'springdoc.show-actuator'; NestedCondition on MultipleOpenApiSupportCondition.OnMultipleOpenApiSupportCondition AnyNestedCondition 2 matched 1 did not; NestedCondition on MultipleOpenApiGroupsCondition.OnListGroupedOpenApiBean @ConditionalOnBean (types: org.springdoc.core.models.GroupedOpenApi; SearchStrategy: all) found bean 'publicApi'; NestedCondition on MultipleOpenApiGroupsCondition.OnGroupConfigProperty @ConditionalOnProperty (springdoc.group-configs[0].group) did not find property 'springdoc.group-configs[0].group'; NestedCondition on MultipleOpenApiGroupsCondition.OnGroupedOpenApiBean @ConditionalOnBean (types: org.springdoc.core.models.GroupedOpenApi; SearchStrategy: all) found bean 'publicApi' (MultipleOpenApiSupportCondition)
+
+   MultipleOpenApiSupportConfiguration#multipleOpenApiResource matched:
+      - @ConditionalOnProperty (springdoc.use-management-port=false) matched (OnPropertyCondition)
+      - @ConditionalOnMissingBean (types: org.springdoc.webmvc.api.MultipleOpenApiWebMvcResource; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   MultipleOpenApiSupportConfiguration.SpringDocWebMvcActuatorDifferentConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.boot.webmvc.actuate.endpoint.web.WebMvcEndpointHandlerMapping' (OnClassCondition)
+
+   SpringDocConfiguration#springdocBeanFactoryPostProcessor matched:
+      - @ConditionalOnClass found required class 'org.springframework.boot.context.properties.bind.BindResult' (OnClassCondition)
+      - AnyNestedCondition 1 matched 1 did not; NestedCondition on CacheOrGroupedOpenApiCondition.OnCacheDisabled found non-matching nested conditions @ConditionalOnProperty (springdoc.cache.disabled) did not find property 'springdoc.cache.disabled', @ConditionalOnMissingBean (types: org.springdoc.core.models.GroupedOpenApi; SearchStrategy: all) found beans of type 'org.springdoc.core.models.GroupedOpenApi' publicApi; NestedCondition on CacheOrGroupedOpenApiCondition.OnMultipleOpenApiSupportCondition AnyNestedCondition 1 matched 1 did not; NestedCondition on MultipleOpenApiSupportCondition.OnActuatorDifferentPort @ConditionalOnProperty (springdoc.show-actuator) did not find property 'springdoc.show-actuator'; NestedCondition on MultipleOpenApiSupportCondition.OnMultipleOpenApiSupportCondition AnyNestedCondition 2 matched 1 did not; NestedCondition on MultipleOpenApiGroupsCondition.OnListGroupedOpenApiBean @ConditionalOnBean (types: org.springdoc.core.models.GroupedOpenApi; SearchStrategy: all) found bean 'publicApi'; NestedCondition on MultipleOpenApiGroupsCondition.OnGroupConfigProperty @ConditionalOnProperty (springdoc.group-configs[0].group) did not find property 'springdoc.group-configs[0].group'; NestedCondition on MultipleOpenApiGroupsCondition.OnGroupedOpenApiBean @ConditionalOnBean (types: org.springdoc.core.models.GroupedOpenApi; SearchStrategy: all) found bean 'publicApi' (CacheOrGroupedOpenApiCondition)
+
+
+Negative matches:
+-----------------
+
+   MultipleOpenApiSupportConfiguration.SpringDocWebMvcActuatorDifferentConfiguration#multipleOpenApiActuatorResource:
+      Did not match:
+         - @ConditionalOnProperty (springdoc.use-management-port) did not find property 'springdoc.use-management-port' (OnPropertyCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2025-10-27T14:20:18.468+05:30  INFO 412 --- [spring-bind-custom-validation] [RMI TCP Connection(17)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-10-27T14:20:18.469+05:30  INFO 412 --- [spring-bind-custom-validation] [RMI TCP Connection(17)-127.0.0.1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:20:18.483+05:30  INFO 412 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:20:27.826+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:20:27.828+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:20:27.830+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:20:27.896+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-10-27T14:20:27.896+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-10-27T14:20:28.901+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:20:28.918+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:20:28.918+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:20:28.968+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1072 ms
+2025-10-27T14:20:29.440+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:20:29.447+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 2.022 seconds (process running for 2.888)
+2025-10-27T14:20:35.302+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-27T14:20:35.302+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-27T14:20:35.302+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-10-27T14:20:36.560+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-6] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 417 ms
+2025-10-27T14:20:50.067+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:20:50.075+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:20:50.094+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:20:50.209+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:20:50.209+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:20:50.209+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:20:50.404+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:20:50.405+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:20:50.405+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:20:50.419+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 207 ms
+2025-10-27T14:20:50.520+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:20:50.524+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.351 seconds (process running for 23.964)
+2025-10-27T14:20:50.525+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:21:01.290+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-27T14:21:01.290+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-27T14:21:01.293+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2025-10-27T14:21:01.939+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-4] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 105 ms
+2025-10-27T14:21:16.001+05:30  WARN 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User): [Field error in object 'user' on field 'name': rejected value []; codes [NotBlank.user.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [Name must not be blank.]] ]
+2025-10-27T14:21:26.385+05:30  WARN 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-7] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User): [Field error in object 'user' on field 'name': rejected value []; codes [NotBlank.user.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [Name must not be blank]] ]
+2025-10-27T14:22:02.918+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T14:22:02.920+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T14:22:02.934+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T14:22:03.073+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T14:22:03.074+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T14:22:03.074+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T14:22:03.372+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T14:22:03.374+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T14:22:03.374+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T14:22:03.402+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 325 ms
+2025-10-27T14:22:03.561+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T14:22:03.566+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.534 seconds (process running for 97.006)
+2025-10-27T14:22:03.568+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T14:22:05.650+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-27T14:22:05.650+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-27T14:22:05.652+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-10-27T14:22:05.674+05:30  WARN 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User): [Field error in object 'user' on field 'name': rejected value []; codes [NotBlank.user.name,NotBlank.name,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [பெயர் காலியாக இருக்கக்கூடாது]] ]
+2025-10-27T16:10:48.780+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T16:10:48.914+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:10:48.958+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:10:50.500+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:10:50.500+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:10:50.500+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:10:51.070+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:10:51.084+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:10:51.084+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:10:51.162+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 655 ms
+2025-10-27T16:10:51.464+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:10:51.475+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 1.043 seconds (process running for 6624.916)
+2025-10-27T16:10:51.477+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:11:24.208+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:11:24.210+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-13] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:11:24.225+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:11:24.321+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:11:24.321+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:11:24.321+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:11:24.507+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:11:24.508+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:11:24.508+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:11:24.525+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 202 ms
+2025-10-27T16:11:24.626+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:11:24.628+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.335 seconds (process running for 6658.068)
+2025-10-27T16:11:24.628+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:11:46.149+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (1 addition, 0 deletions, 1 modification)
+2025-10-27T16:11:46.154+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-17] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:11:46.171+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:11:46.434+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:11:46.436+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:11:46.436+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:11:46.864+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:11:46.866+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:11:46.866+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:11:46.899+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 458 ms
+2025-10-27T16:11:47.303+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:11:47.309+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 1.001 seconds (process running for 6680.749)
+2025-10-27T16:11:47.311+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:12:23.948+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2025-10-27T16:12:23.950+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-21] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:12:23.965+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:12:24.065+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:12:24.065+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:12:24.065+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:12:24.297+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:12:24.298+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:12:24.298+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:12:24.313+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 245 ms
+2025-10-27T16:12:24.484+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:12:24.488+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.456 seconds (process running for 6717.928)
+2025-10-27T16:12:24.490+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:12:25.879+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:12:25.880+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-25] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:12:25.888+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:12:25.971+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:12:25.971+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:12:25.971+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:12:26.124+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:12:26.124+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:12:26.125+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:12:26.139+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 166 ms
+2025-10-27T16:12:26.226+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:12:26.228+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.287 seconds (process running for 6719.668)
+2025-10-27T16:12:26.229+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:12:33.665+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:12:33.668+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-29] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:12:33.690+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:12:33.814+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:12:33.814+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:12:33.814+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:12:34.091+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:12:34.092+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:12:34.092+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:12:34.118+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 301 ms
+2025-10-27T16:12:34.221+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:12:34.223+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.453 seconds (process running for 6727.663)
+2025-10-27T16:12:34.224+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:13:14.817+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:13:14.818+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-33] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:13:14.828+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:13:14.905+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:13:14.906+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:13:14.906+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:13:15.059+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:13:15.060+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:13:15.060+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:13:15.074+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 167 ms
+2025-10-27T16:13:15.144+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:13:15.146+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.268 seconds (process running for 6768.585)
+2025-10-27T16:13:15.146+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:13:23.621+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2025-10-27T16:13:23.624+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-37] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:13:23.633+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:13:23.718+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:13:23.718+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:13:23.718+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:13:23.884+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:13:23.885+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:13:23.885+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:13:23.898+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 178 ms
+2025-10-27T16:13:23.973+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:13:23.975+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.284 seconds (process running for 6777.415)
+2025-10-27T16:13:23.975+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:14:27.116+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 5 class path changes (0 additions, 0 deletions, 5 modifications)
+2025-10-27T16:14:27.116+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-41] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:14:27.133+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:14:27.280+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:14:27.280+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:14:27.280+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:14:27.678+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:14:27.678+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:14:27.678+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:14:27.711+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 427 ms
+2025-10-27T16:14:27.864+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:14:27.873+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.648 seconds (process running for 6841.314)
+2025-10-27T16:14:27.873+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:14:50.484+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:14:50.486+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-45] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:14:50.498+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:14:50.629+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:14:50.629+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:14:50.629+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:14:50.943+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:14:50.943+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:14:50.943+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:14:50.958+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 329 ms
+2025-10-27T16:14:51.086+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:14:51.102+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.524 seconds (process running for 6864.543)
+2025-10-27T16:14:51.102+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:15:05.665+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:15:05.667+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-49] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:15:05.673+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:15:05.746+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:15:05.746+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:15:05.746+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:15:05.879+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:15:05.879+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:15:05.879+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:15:05.893+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 145 ms
+2025-10-27T16:15:05.957+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:15:05.959+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.237 seconds (process running for 6879.398)
+2025-10-27T16:15:05.959+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:15:14.399+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:15:14.400+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-53] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:15:14.406+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:15:14.501+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:15:14.502+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:15:14.502+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:15:14.852+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:15:14.852+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:15:14.852+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:15:14.885+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 380 ms
+2025-10-27T16:15:15.043+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:15:15.045+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.587 seconds (process running for 6888.486)
+2025-10-27T16:15:15.047+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:15:50.767+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T16:15:50.769+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-57] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:15:50.783+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:15:50.927+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:15:50.928+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:15:50.928+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:15:51.334+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:15:51.334+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:15:51.334+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:15:51.367+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 437 ms
+2025-10-27T16:15:51.511+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:15:51.515+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.646 seconds (process running for 6924.955)
+2025-10-27T16:15:51.515+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:16:20.170+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:16:20.171+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-61] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:16:20.180+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:16:20.259+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:16:20.260+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:16:20.260+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:16:20.410+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:16:20.411+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:16:20.411+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:16:20.426+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 165 ms
+2025-10-27T16:16:20.497+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:16:20.499+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.263 seconds (process running for 6953.939)
+2025-10-27T16:16:20.500+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:16:21.911+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:16:21.911+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-65] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:16:21.926+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:16:22.062+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:16:22.062+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:16:22.062+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:16:22.370+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:16:22.370+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:16:22.370+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:16:22.401+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 339 ms
+2025-10-27T16:16:22.534+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:16:22.534+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.52 seconds (process running for 6955.983)
+2025-10-27T16:16:22.545+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:25:03.702+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-10-27T16:25:03.704+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-69] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:25:03.715+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:25:03.814+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:25:03.814+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:25:03.814+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:25:04.104+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:25:04.104+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:25:04.104+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:25:04.147+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 331 ms
+2025-10-27T16:25:04.313+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:25:04.317+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.532 seconds (process running for 7477.757)
+2025-10-27T16:25:04.319+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:25:56.110+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:25:56.110+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-73] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:25:56.131+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:25:56.269+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:25:56.269+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:25:56.269+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:25:56.553+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:25:56.553+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:25:56.553+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:25:56.577+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 306 ms
+2025-10-27T16:25:56.705+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:25:56.710+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.486 seconds (process running for 7530.149)
+2025-10-27T16:25:56.710+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:26:26.287+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:26:26.289+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-77] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:26:26.296+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:26:26.368+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:26:26.368+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:26:26.368+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:26:26.548+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:26:26.549+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:26:26.549+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:26:26.571+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 202 ms
+2025-10-27T16:26:26.642+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:26:26.644+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.298 seconds (process running for 7560.084)
+2025-10-27T16:26:26.644+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:30:12.193+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:30:12.193+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-81] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:30:12.211+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:30:12.321+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:30:12.321+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:30:12.321+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:30:12.633+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:30:12.633+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:30:12.633+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:30:12.669+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 348 ms
+2025-10-27T16:30:12.829+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:30:12.829+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.542 seconds (process running for 7786.271)
+2025-10-27T16:30:12.829+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:30:31.404+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:30:31.405+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-85] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:30:31.411+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:30:31.478+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:30:31.478+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:30:31.478+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:30:31.618+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:30:31.618+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:30:31.618+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:30:31.634+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 155 ms
+2025-10-27T16:30:31.709+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:30:31.712+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.251 seconds (process running for 7805.152)
+2025-10-27T16:30:31.712+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:31:11.507+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:31:11.507+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-89] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:31:11.529+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:31:11.659+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:31:11.659+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:31:11.659+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:31:11.983+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:31:11.983+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:31:11.983+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:31:12.014+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 355 ms
+2025-10-27T16:31:12.167+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:31:12.169+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.549 seconds (process running for 7845.609)
+2025-10-27T16:31:12.169+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:31:25.710+05:30  INFO 18736 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T16:31:25.713+05:30  INFO 18736 --- [spring-bind-custom-validation] [Thread-93] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T16:31:25.720+05:30  INFO 18736 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-10-27T16:31:25.809+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18736 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T16:31:25.810+05:30 DEBUG 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T16:31:25.810+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T16:31:26.002+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T16:31:26.002+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T16:31:26.002+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T16:31:26.017+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 206 ms
+2025-10-27T16:31:26.091+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T16:31:26.093+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.308 seconds (process running for 7859.533)
+2025-10-27T16:31:26.094+05:30  INFO 18736 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T16:31:31.477+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-27T16:31:31.477+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-27T16:31:31.477+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-10-27T16:31:35.111+05:30  INFO 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-6] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 221 ms
+2025-10-27T16:31:44.068+05:30  WARN 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-7] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User) with 2 errors: [Field error in object 'user' on field 'pan': rejected value [string]; codes [ValidPan.user.pan,ValidPan.pan,ValidPan.java.lang.String,ValidPan]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.pan,pan]; arguments []; default message [pan]]; default message [Invalid PAN format (e.g., ABCDE1234F)]] [Field error in object 'user' on field 'aadhaar': rejected value [string]; codes [ValidAadhaar.user.aadhaar,ValidAadhaar.aadhaar,ValidAadhaar.java.lang.String,ValidAadhaar]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.aadhaar,aadhaar]; arguments []; default message [aadhaar]]; default message [Invalid Aadhaar number (must be 12 digits)]] ]
+2025-10-27T16:31:54.787+05:30  WARN 18736 --- [spring-bind-custom-validation] [http-nio-8080-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.thirumal.model.User com.thirumal.controller.UserController.createUser(com.thirumal.model.User) with 2 errors: [Field error in object 'user' on field 'pan': rejected value [string]; codes [ValidPan.user.pan,ValidPan.pan,ValidPan.java.lang.String,ValidPan]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.pan,pan]; arguments []; default message [pan]]; default message [தவறான PAN வடிவம் (எ.கா., ABCDE1234F)]] [Field error in object 'user' on field 'aadhaar': rejected value [string]; codes [ValidAadhaar.user.aadhaar,ValidAadhaar.aadhaar,ValidAadhaar.java.lang.String,ValidAadhaar]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.aadhaar,aadhaar]; arguments []; default message [aadhaar]]; default message [தவறான ஆதார் எண் (12 இலக்கங்கள் இருக்க வேண்டும்)]] ]

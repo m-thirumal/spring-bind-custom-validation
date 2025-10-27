@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: spring-bind-custom-validation
+logging:
+    level:
+      root: INFO
+      '[org.springframework.web]': INFO
+      '[org.springframework.web.filter.CommonsRequestLoggingFilter]': DEBUG
+      '[com.thirumal]': DEBUG
+    file:
+      path: logs
+      name: logs/spring-bind-custom-validation.log
+    logback: 
+      rollingpolicy: 
+        max-history: 10
+        max-file-size: 100MB
+        total-size-cap: 1GB

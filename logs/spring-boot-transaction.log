@@ -1,0 +1,13 @@
+2025-10-27T12:37:16.201+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Starting SpringBindCustomValidationApplication using Java 25 with PID 18092 (C:\Users\ThirumalM\git\spring-bind-custom-validation\target\classes started by ThirumalM in C:\Users\ThirumalM\git\spring-bind-custom-validation)
+2025-10-27T12:37:16.202+05:30 DEBUG 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Running with Spring Boot v4.0.0-RC1, Spring v7.0.0-RC2
+2025-10-27T12:37:16.202+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-27T12:37:16.327+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-10-27T12:37:16.328+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-27T12:37:16.328+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.13]
+2025-10-27T12:37:16.343+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 138 ms
+2025-10-27T12:37:16.411+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-10-27T12:37:16.413+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .t.SpringBindCustomValidationApplication : Started SpringBindCustomValidationApplication in 0.257 seconds (process running for 150.948)
+2025-10-27T12:37:16.416+05:30  INFO 18092 --- [spring-bind-custom-validation] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-10-27T12:37:26.835+05:30  INFO 18092 --- [spring-bind-custom-validation] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-10-27T12:37:26.836+05:30  INFO 18092 --- [spring-bind-custom-validation] [Thread-13] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-27T12:37:26.849+05:30  INFO 18092 --- [spring-bind-custom-validation] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
