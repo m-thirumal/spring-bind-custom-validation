@@ -16,3 +16,15 @@ For improved `localization and maintainability`, we can bind error messages to e
 
 ### Custom Validation annotation 
 
+1. Create annotation
+2. Create validator by implementing `ConstraintValidator`
+
+### Example
+
+Localization in Tamil Language
+
+![Tamil](./doc/tamil.png)
+
+Localization with English Language
+
+![English](./doc/english.png)
